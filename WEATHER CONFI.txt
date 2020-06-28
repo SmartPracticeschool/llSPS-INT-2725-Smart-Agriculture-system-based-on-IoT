@@ -1,0 +1,5 @@
+api.openweathermap.org/data/2.5/weather?q=Mumbai, IN&appid=98d035c91f12fa8cd011d933a0722699
+
+API KEY
+98d035c91f12fa8cd011d933a0722699
+
