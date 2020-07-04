@@ -1,2 +1,2 @@
-# llSPS-INT-2725-Smart-Agriculture-system-based-on-IoT
+DOCUMENTS UPLOADED PLEASE REVIEW AND CONFIRM MY ALL TASKS
 Smart Agriculture system based on IoT
